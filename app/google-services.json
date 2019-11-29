@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "199367390577",
+    "firebase_url": "https://testmapsv102-1575049676347.firebaseio.com",
+    "project_id": "testmapsv102-1575049676347",
+    "storage_bucket": "testmapsv102-1575049676347.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199367390577:android:cf4d4bb0fd5f9df15df2d0",
+        "android_client_info": {
+          "package_name": "com.example.mapsv102"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "199367390577-q4mvaq55a641t7k13vsf21svl006dg3p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAV3WGarosB_slsRQUHyiDda3BiZLAH4mw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "199367390577-q4mvaq55a641t7k13vsf21svl006dg3p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
